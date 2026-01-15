@@ -14,7 +14,7 @@ Passionné par la création de solutions web robustes et élégantes, je transfo
 * Conception d'APIs RESTful sécurisées (Swagger, Postman).
 
 ###  Front-end
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 * Développement d'interfaces réactives avec Angular 19/20.
 * Gestion d'état avec RxJS et intégration Angular Material.
 
