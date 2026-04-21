@@ -2,7 +2,7 @@
 
 ### Développeur Full Stack | .NET & Angular
 
-Passionné par la création de solutions web robustes et élégantes, je transforme des besoins complexes en applications performantes. Avec un bagage académique solide (**Bac+5 en Génie Logiciel & IA**) et une expertise sur les architectures modernes (Microservices, Clean Architecture), je m'efforce de livrer un code maintenable et de haute qualité.
+Passionné par la création de solutions web robustes et élégantes, je transforme des besoins complexes en applications performantes. Avec un bagage académique solide et une expertise sur les architectures modernes (Microservices, Clean Architecture), je m'efforce de livrer un code maintenable et de haute qualité.
 
 ---
 
