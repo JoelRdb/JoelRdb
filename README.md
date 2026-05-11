@@ -20,7 +20,7 @@ Passionné par la création de solutions web robustes et élégantes, je transfo
 
 ###  Bases de Données & DevOps
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* Maîtrise de SQL Server, MySQL, MongoDB.
+* Maîtrise de SQL Server, MySQL.
 * Conteneurisation (Docker) et déploiement continu (Vercel).
 
 ---
@@ -30,7 +30,7 @@ Passionné par la création de solutions web robustes et élégantes, je transfo
 ###  [Architecture Microservices](https://github.com/JoelRdb)
 Implémentation d'une architecture backend distribuée pour une scalabilité optimale. Séparation des responsabilités et communication inter-services.
 
-###  [Système de Gestion Locative](https://github.com/JoelRdb)
+###  [Système de Gestion Locative](https://vatsimmo.vercel.app)
 Application complète intégrant le suivi des loyers, paiements et gestion documentaire (.NET Core / Angular).
 
 ###  [Vatsy - Site Vitrine](https://vatsy.vercel.app/)
@@ -40,9 +40,9 @@ Site web responsive moderne pour la location immobilière, conçu pour une expé
 
 ##  Certifications
 * **Creating .Net Core Microservices using Clean Architecture** (Udemy) [https://www.udemy.com/certificate/UC-a305d8df-4c72-4dd4-be60-113faf015fee/]
-* **SQL Avancé pour les Data Scientists** (LinkedIn Learning)
-* **SOLID & C# Maintenable** (OpenClassrooms)
-* **ASP.NET Core MVC** (OpenClassrooms)
+* **SQL Avancé pour les Data Scientists** (LinkedIn Learning) [https://www.linkedin.com/learning/certificates/37d274313f7d31ba1c8c90c9df9148e6dced227f457db20a54de6e3c4adbd913]
+* **SOLID & C# Maintenable** (OpenClassrooms) [https://openclassrooms.com/fr/course-certificates/2882543411]
+* **ASP.NET Core MVC** (OpenClassrooms) [https://openclassrooms.com/fr/course-certificates/8085295484]
 
 ---
 
