@@ -39,7 +39,7 @@ Site web responsive moderne pour la location immobilière, conçu pour une expé
 ---
 
 ##  Certifications
-* **Creating .Net Core Microservices using Clean Architecture** (Udemy)
+* **Creating .Net Core Microservices using Clean Architecture** (Udemy) [https://www.udemy.com/certificate/UC-a305d8df-4c72-4dd4-be60-113faf015fee/]
 * **SQL Avancé pour les Data Scientists** (LinkedIn Learning)
 * **SOLID & C# Maintenable** (OpenClassrooms)
 * **ASP.NET Core MVC** (OpenClassrooms)
